@@ -11,6 +11,8 @@ import { AhashortsComponent } from './ahashorts/ahashorts.component';
 import { HeaderComponent } from './shared/header/header.component';
 import { FooterComponent } from './shared/footer/footer.component';
 import { SharedModule } from './shared/shared.module';
+import { HttpClientModule, HttpClient } from '@angular/common/http';
+
 
 @NgModule({
   declarations: [
@@ -19,15 +21,17 @@ import { SharedModule } from './shared/shared.module';
     MainscreenComponent,
     MoviesComponent,
     MoviedetailComponent,
-    AhashortsComponent
+    AhashortsComponent,
+
 
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    SharedModule
+    SharedModule,
+    HttpClientModule
   ],
-  providers: [],
+  providers: [HttpClientModule,],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

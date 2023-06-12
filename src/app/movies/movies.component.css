@@ -1,0 +1,31 @@
+.container-wrapper-casino {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #08090d;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    padding-bottom: 14px;
+}
+.main-container-casino {
+    width: 100vw;
+    margin: 10px auto 40px;
+    display: flex;
+    flex-wrap: wrap;
+    grid-gap: 8px;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+}
+.card-casino {
+    border-radius: 5px;
+    padding: 2px;
+    height: 100%;
+    width: 48%;
+}
+.card-casino  img  {
+    width: 176px;
+    height: 116px;
+}

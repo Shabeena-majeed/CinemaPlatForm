@@ -1,0 +1,133 @@
+[
+  {
+    "Name": "Continue Watching",
+    "SeeAll": "See all",
+    "items": [
+    {
+      
+      "imgLink": "/assets/images/banners/Rectangle.svg"
+      ,"className":"imgCls1"
+    },
+    {
+      
+        "imgLink": "/assets/images/banners/Rectangle1.svg"
+        ,"className":"imgCls1"
+      }
+      ,
+      {
+      
+        "imgLink": "/assets/images/banners/Rectangle3.svg"
+        ,"className":"imgCls1"
+      }
+      ,
+      {
+      
+        "imgLink": "/assets/images/banners/Rectangle4.svg"
+        ,"className":"imgCls1"
+      },
+      {
+      
+        "imgLink": "/assets/images/banners/Rectangle5.svg"
+        ,"className":"imgCls1"
+      },
+      {
+      
+        "imgLink": "/assets/images/banners/Rectangle 6.png"
+        ,"className":"imgCls1"
+      },
+      {
+        "imgLink": "/assets/images/banners/Rectangle 7.png"
+        ,"className":"imgCls1"
+      }
+      ,
+      {
+      
+        "imgLink": "/assets/images/banners/Rectangle 8.png"
+        ,"className":"imgCls1"
+      }
+      ,
+      {
+        "imgLink": "/assets/images/banners/Rectangle9.png"
+        ,"className":"imgCls1"
+       
+      }
+      ,
+      {
+      
+        "imgLink": "/assets/images/banners/Rectangle10.svg"
+        ,"className":"imgCls1"
+       
+      }
+  ]
+},
+{
+  "Name": "Latest on aha",
+  "SeeAll": "See all",
+  "items": [
+  {
+    
+    "imgLink": "/assets/images/banners/latest1.svg"
+    ,"className":"imgCls"
+  },
+  {
+    
+      "imgLink": "/assets/images/banners/latest2.svg"
+      ,"className":"imgCls"
+    }
+    ,
+    {
+    
+      "imgLink": "/assets/images/banners/latest3.svg"
+      ,"className":"imgCls"
+    }
+    ,
+    {
+    
+      "imgLink": "/assets/images/banners/latest4.svg"
+      ,"className":"imgCls"
+    },
+    {
+    
+      "imgLink": "/assets/images/banners/latest5.svg"
+      ,"className":"imgCls"
+    }
+   
+]
+}
+,
+{
+  "Name": "Most watched on aha",
+  "SeeAll": "See all",
+  "items": [
+  {
+    
+    "imgLink": "/assets/images/banners/view3-1.png"
+    ,"className":"imgCls3"
+   
+  },
+  {
+    
+      "imgLink": "/assets/images/banners/view3-3.png"
+      ,"className":"imgCls3"
+    }
+    ,
+    {
+    
+      "imgLink": "/assets/images/banners/view3-5.png"
+      ,"className":"imgCls3"
+    }
+    ,
+    {
+    
+      "imgLink": "/assets/images/banners/view3-4.png"
+      ,"className":"imgCls3"
+    },
+    {
+    
+      "imgLink": "/assets/images/banners/view3-5.png"
+      ,"className":"imgCls3"
+    }
+   
+]
+}
+]
