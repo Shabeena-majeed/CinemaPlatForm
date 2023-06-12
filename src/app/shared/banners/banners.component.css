@@ -1,0 +1,32 @@
+.text-slider {
+    padding: 0 15px;
+    margin-top: 20px;
+}
+.text-slider .info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.text-slider .info .title-section {
+    font-size: 16px;
+    font-weight: 700;
+    color: #FF7732;   
+    text-decoration: none; 
+}
+.see-all{
+    font-size: 14px;
+    font-weight: 700;
+    color: #249AE3;
+}
+.mobile-scroll .home-slider {
+    overflow-x: auto;
+    overflow-y: hidden;
+    display: flex;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+/* .mobile-scroll .home-slider .item img {
+    width: 90px;
+    height: 65px;
+} */

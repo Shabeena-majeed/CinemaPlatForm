@@ -1,0 +1,17 @@
+<div class="text-slider" *ngFor="let m of data; index as i;">
+    <div class="info">
+        <h1 class="title-section">{{m.Name}}</h1>
+
+        <div>
+            <span class="see-all"> {{m.SeeAll}}</span>
+        </div>
+    </div>
+    <div class="mobile-scroll">
+        <ul class="home-slider" >
+            <li class="item" *ngFor="let n of m.items; index as i;">
+                <img class={{n.className}} src= {{n.imgLink}}>
+            </li>
+           
+    </ul>
+</div>
+</div>
